@@ -18,4 +18,4 @@ My name is Laura, I´m from Spain and I am a Data Scientist.
 
 Find all of my social and resume in my https://linktr.ee/l120 
 
-### You can see my proyects below
+### You can see my proyects below :point_down:

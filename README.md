@@ -11,6 +11,7 @@ My name is Laura, I´m from Spain and I am a Data Scientist.
 * Tableau Knowledge
 * Good practices, good comunication and proactivity skills
 * Some Apache Beam knowledge
+* Some GCP knowledge
 * Some pySpark knowledge
 
 ### Contact

@@ -1,9 +1,9 @@
 ## Hello :wave:
 My name is Laura, I´m from Spain and I am a Data Scientist.
 
-* Currently working at Fundación Diagrama as Data Analyst. 
+* Currently working as Data Analyst. 
 * I have a new [blog] in Medium (https://medium.com/@laura.lmcast) about a IA, psychology and neuroscience.
-* I have a profile on twitter (now X) @laura_auburn
+
 
 ### Skills
 * Python and R developer in continuous learning 
